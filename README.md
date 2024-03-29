@@ -37,13 +37,17 @@ Here are some ideas to get you started:
  
 <br>
 
+# 📌 Projects
+## [ Back-end ]
+### Engine
+
 # 📌 Work Experience
 
 ## [ Back-end ]
 ### Framework
  - Node.js (JavaScript)
  - Express, Sequelize, Socket.IO
- - Spring framework (JAVA) (📫 공부중!)
+ - Spring framework (JAVA)
  - MySQL
  - Redis
    
@@ -56,11 +60,7 @@ Here are some ideas to get you started:
 - Unity 3D (C#)
 - UGS (Unity Gameing Service, Netcode for gameobject)
 
-### Dev. environment
-- VS code, Rider
-- Github
-
-<img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/VS code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"> <img src="https://img.shields.io/badge/Rider-000000?style=flat&logo=Rider&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white">
+<img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/Rider-000000?style=flat&logo=Rider&logoColor=white">
 
 ## [ Back-end ]
 ### Framework
@@ -70,6 +70,10 @@ Here are some ideas to get you started:
  - 
 <img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/dotnet-512BD4?style=flat&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/go-00ADD8?style=flat&logo=go&logoColor=white">
+
+
+
+
 
 
 <!--
