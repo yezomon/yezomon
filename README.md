@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 # 🌱 yezomon
 - 같은 개발자가 되고 싶은 개발자 입니다. 👋
- <!-- 카멜레온과 같은 개발자가 되고 싶은 arcane222 (이홍준) 입니다. 👋 -->
 
 # 📌 Profile
  - Ajou Univ. Digital Media 
@@ -32,21 +31,20 @@ Here are some ideas to get you started:
 
 ### Next Goal
  - Gold 달성하기
- - 
  <!-- 삼성 SW 역량 테스트 B형(Pro) 취득하기 -->
- 
 <br>
 
 # 📌 Projects
 ## [ Back-end ]
 ### Engine
+https://github.com/DevelopersWorkOut/Blog-poc
+
 
 # 📌 Work Experience
 
 ## [ Back-end ]
 ### Framework
- - Node.js (JavaScript)
- - Express, Sequelize, Socket.IO
+ - Node.js, Express, Socket.IO
  - Spring framework (JAVA)
  - MySQL
  - Redis
@@ -66,12 +64,10 @@ Here are some ideas to get you started:
 ### Framework
  - .Net (C#)
  - framework (GoLang) (📫 공부중!)
- - AWS
- - 
+ - Docker,K8S
+   
 <img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/dotnet-512BD4?style=flat&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/go-00ADD8?style=flat&logo=go&logoColor=white">
-
-
 
 
 
