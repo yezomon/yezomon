@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  <br>
 
 # 📌 BOJ
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=huxley)](https://solved.ac/huxley/)
+  [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=huxley)](https://solved.ac/huxley)
   
 ### Current Progress
  - 1일 1솔 + 1일 1커밋 하기 !
@@ -44,8 +44,8 @@ https://github.com/DevelopersWorkOut/Blog-poc
 
 ## [ Back-end ]
 ### Framework
- - Node.js, Express, Socket.IO
  - Spring framework (JAVA)
+ - Node.js, Express, Socket.IO
  - MySQL
  - Redis
    
@@ -60,11 +60,11 @@ https://github.com/DevelopersWorkOut/Blog-poc
 
 <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/Rider-000000?style=flat&logo=Rider&logoColor=white">
 
-## [ Back-end ]
+## [ Server ]
 ### Framework
  - .Net (C#)
  - framework (GoLang) (📫 공부중!)
- - Docker,K8S
+ - Docker,K8S ((📫 공부중!)
    
 <img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/dotnet-512BD4?style=flat&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/go-00ADD8?style=flat&logo=go&logoColor=white">
