@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 # 📌 Profile
  - Ajou Univ. Digital Media 
  - Email - 메일@naver.com
- 
- <br>
 
+ 
 # 📌 BOJ
   [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=huxley)](https://solved.ac/huxley)
   
@@ -36,7 +35,9 @@ Here are some ideas to get you started:
 
 # 📌 Projects
 ## [ Back-end ]
-### Engine
+### Milestone
+https://github.com/DevelopersWorkOut/IssueManager
+### Blog
 https://github.com/DevelopersWorkOut/Blog-poc
 
 
