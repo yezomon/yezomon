@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  - 1일 1솔 + 1일 1커밋 하기 !
 
 ### Next Goal
- - Gold 달성하기
+ - Platinum 달성하기
  <!-- 삼성 SW 역량 테스트 B형(Pro) 취득하기 -->
 <br>
 
