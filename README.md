@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyezomon&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+</p>
 <!--
 **yezomon/yezomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -7,29 +9,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 🌱 yezomon
-- 같은 개발자가 되고 싶은 개발자 입니다. 👋
-
-# 📌 Profile
- - Ajou Univ. Digital Media 
- - Email - 메일@naver.com
-
- 
-# 📌 BOJ
-  [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=huxley)](https://solved.ac/huxley)
-  
-### Current Progress
- - 1일 1솔 + 1일 1커밋 하기 !
-
-### Next Goal
- - Platinum 달성하기
+- 👯 I’m look솔
  <!-- 삼성 SW 역량 테스트 B형(Pro) 취득하기 -->
 <br>
 
