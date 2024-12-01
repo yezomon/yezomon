@@ -18,6 +18,7 @@ https://github.com/DevelopersWorkOut/IssueManager
 
 ### meal-plan
 [backend] https://github.com/yezomon/meal-plan
+
 [frontend] https://github.com/yezomon/meal-plan-react
 
 ### Blog
