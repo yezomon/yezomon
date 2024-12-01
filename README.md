@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 ## [ Back-end ]
 ### Milestone
 https://github.com/DevelopersWorkOut/IssueManager
+
+### meal-plan
+[backend] https://github.com/yezomon/meal-plan
+[frontend] https://github.com/yezomon/meal-plan-react
+
 ### Blog
 https://github.com/DevelopersWorkOut/Blog-poc
 
